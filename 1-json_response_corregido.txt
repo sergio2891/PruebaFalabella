@@ -1,0 +1,51 @@
+{
+   "Dato_cliente": {
+      "Nombre": "stringValue",
+      "Apellido": "stringValue",
+      "Direccion": "stringValue",
+      "Email": "sergio.perez@gmail.com",
+      "Telefono": 21235678,
+      "RUT": 20199652
+   },
+   "Dato_perfil": {
+      "Cuenta_ppal": 12345,
+      "Tipo_cliente": "stringValue",
+      "Tarjeta_debito": 987654321
+   },
+   "Dato_Sucursal": {
+      "Sucursal_nro": 123,
+      "Ejecutivo": "stringValue",
+      "Telefono_ejec": 123,
+      "Direccion_suc": "stringValue"
+   },
+   "Dato_productos": {
+      "Tiene_prod": true,
+      "Tipo_producto": [
+         "Consumo",
+         "Hipotecario",
+         "Linea_emergencia",
+         "Linea_sobregiro"
+      ],
+      "Puntos": 123,
+      "Tarjeta_credito": 4929479273274254
+   },
+   "Datos_seguros": {
+      "Tiene_prod": true,
+      "SOAP": "stringValue",
+      "Seguro_vehiculo": "stringValue",
+      "Seguro_fraude": "stringValue",
+      "Seguro_hogar": "stringValue",
+      "Seguro_vida": "stringValue"
+   },
+   "Datos_fondos": {
+      "Fondo_mutual": "stringValue",
+      "Ahorro_previsional": 12345,
+      "ctaRentaDiaria": "stringValue"
+   },
+   "Datos_penalizaciones": {
+      "InteresesMora_Sobregiro": 12,
+      "InteresMora_TarjetaCredito": 13,
+      "InteresMora_Consumo": 14,
+      "InteresMora_Hipotecario": 15
+   }
+}
